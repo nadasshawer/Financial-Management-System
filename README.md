@@ -1,4 +1,4 @@
-#Finance-Tracker
+# Finance-Tracker
 
 Skills: 💻 C++ · 🧩 OOP Design · 📂 File Handling · 🔍 Encryption
 
